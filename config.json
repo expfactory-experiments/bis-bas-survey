@@ -2,6 +2,7 @@
     "name": "BIS/BAS (Behavioral Approach/Inhibition Systems) Survey",
     "template":"survey",
     "exp_id": "bis-bas-survey",
+    "url": "https://github.com/expfactory-experiments/bis-bas-survey",
     "cognitive_atlas_task_id": "trm_56a9137d9dce1",
     "contributors": [
              "Zeynep Enkavi",
